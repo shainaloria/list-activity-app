@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">List Activity</string>
+    <string name="header_name">My List of Randoms</string>
+    <string name="image_description">placeholder</string>
+</resources>
